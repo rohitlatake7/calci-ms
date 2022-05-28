@@ -6,3 +6,5 @@
   -train.java
   -flight.java
   -hotel.java
+  -resturant.java
+  -visa.java
