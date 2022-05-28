@@ -2,3 +2,4 @@
   -bus.java
   -train.java
   -flight.java
+  -hotel.java
