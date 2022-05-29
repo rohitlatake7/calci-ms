@@ -11,7 +11,7 @@ spec:
     spec:
       hostPID: true
       containers:
-        - name: kube-bench
+        - name: kube-bench--container
           image: aquasec/kube-bench:v0.6.9
           command: ["kube-bench"]
           volumeMounts:
