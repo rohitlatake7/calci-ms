@@ -1,7 +1,3 @@
-hekkke
-
 docker pull alpine
-docker images
-docker ps
-docker ps -a
-
+docker run -itd --name mycontainer alpine
+docker ps 
